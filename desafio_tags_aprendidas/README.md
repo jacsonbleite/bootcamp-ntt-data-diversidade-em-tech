@@ -4,4 +4,4 @@
 Esse desafio consiste em cria criar um simple documento em HTML - somente - e
 utilizar as tags estudadas no módulo
 
-<h1> até <h6>, <p>, <mark>, <small>, <i>, <u>, <strong>, <ol>, <ul>, <li>, <a>, <hr>, <sub>, <sup>, <blockquote>
+<code>&lt;h1&gt;</code> até <code>&lt;h6&gt;</code>, <code>&lt;p&gt;</code>, <code>&lt;mark&gt;</code>, <code>&lt;small&gt;</code>, <code>&lt;i&gt;</code>, <code>&lt;u&gt;</code>, <code>&lt;strong&gt;</code>, <code>&lt;ol&gt;</code>, <code>&lt;ul&gt;</code>, <code>&lt;li&gt;</code>, <code>&lt;a&gt;</code>, <code>&lt;hr&gt;</code>, <code>&lt;sub&gt;</code>, <code>&lt;sup&gt;</code>, <code>&lt;blockquote&gt;</code>
